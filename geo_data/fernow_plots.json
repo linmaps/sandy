@@ -1,0 +1,2177 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "nRows" : "nRows",
+    "SumBA" : "SumBA",
+    "sumBAgte2" : "sumBAgte2",
+    "PctBAgte2" : "PctBAgte2",
+    "sumBAdampc" : "sumBAdampc",
+    "pctBApct" : "pctBApct",
+    "canopyBA" : "canopyBA",
+    "canopyBApc" : "canopyBApc",
+    "pctcandamc" : "pctcandamc",
+    "sumBAcangt" : "sumBAcangt",
+    "pctcanBAgt" : "pctcanBAgt",
+    "easting" : "easting",
+    "northing" : "northing",
+    "PlotName" : "PlotName",
+    "Plot" : "Plot",
+    "POINT_X" : "POINT_X",
+    "POINT_Y" : "POINT_Y"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 32617,
+    "latestWkid" : 32617
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "nRows",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "nRows"
+    },
+    {
+      "name" : "SumBA",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "SumBA"
+    },
+    {
+      "name" : "sumBAgte2",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "sumBAgte2"
+    },
+    {
+      "name" : "PctBAgte2",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "PctBAgte2"
+    },
+    {
+      "name" : "sumBAdampc",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "sumBAdampc"
+    },
+    {
+      "name" : "pctBApct",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "pctBApct"
+    },
+    {
+      "name" : "canopyBA",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "canopyBA"
+    },
+    {
+      "name" : "canopyBApc",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "canopyBApc"
+    },
+    {
+      "name" : "pctcandamc",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "pctcandamc"
+    },
+    {
+      "name" : "sumBAcangt",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "sumBAcangt"
+    },
+    {
+      "name" : "pctcanBAgt",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "pctcanBAgt"
+    },
+    {
+      "name" : "easting",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "easting"
+    },
+    {
+      "name" : "northing",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "northing"
+    },
+    {
+      "name" : "PlotName",
+      "type" : "esriFieldTypeString",
+      "alias" : "PlotName",
+      "length" : 5
+    },
+    {
+      "name" : "Plot",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "Plot"
+    },
+    {
+      "name" : "POINT_X",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_X"
+    },
+    {
+      "name" : "POINT_Y",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_Y"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "nRows" : 56,
+        "SumBA" : 8777.4775000000009,
+        "sumBAgte2" : 2943.8442,
+        "PctBAgte2" : 0.33538612899999998,
+        "sumBAdampc" : 845.00343750000002,
+        "pctBApct" : 0.096269508000000004,
+        "canopyBA" : 6575.0343999999996,
+        "canopyBApc" : 505.76568750000001,
+        "pctcandamc" : 0.076922136000000002,
+        "sumBAcangt" : 2023.0627500000001,
+        "pctcanBAgt" : 0.30768854200000001,
+        "easting" : 613009.25120000006,
+        "northing" : 4323928.5199999996,
+        "PlotName" : "BCA1",
+        "Plot" : 101,
+        "POINT_X" : -79.693891504299998,
+        "POINT_Y" : 39.057133976999999
+      },
+      "geometry" : {
+        "x" : 613009.25120000157,
+        "y" : 4323928.5199999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "nRows" : 77,
+        "SumBA" : 9747.7296499999993,
+        "sumBAgte2" : 1055.0949499999999,
+        "PctBAgte2" : 0.10824007099999999,
+        "sumBAdampc" : 321.18275,
+        "pctBApct" : 0.032949493000000003,
+        "canopyBA" : 7376.7235000000001,
+        "canopyBApc" : 232.70736249999999,
+        "pctcandamc" : 0.031546167999999999,
+        "sumBAcangt" : 930.82944999999995,
+        "pctcanBAgt" : 0.126184674,
+        "easting" : 613371.94070000004,
+        "northing" : 4324033.0209999997,
+        "PlotName" : "BCA2",
+        "Plot" : 102,
+        "POINT_X" : -79.689683325600001,
+        "POINT_Y" : 39.058028401100003
+      },
+      "geometry" : {
+        "x" : 613371.94069999969,
+        "y" : 4324033.0209999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "nRows" : 156,
+        "SumBA" : 11461.196250000001,
+        "sumBAgte2" : 1276.79465,
+        "PctBAgte2" : 0.11140151700000001,
+        "sumBAdampc" : 753.45477500000004,
+        "pctBApct" : 0.065739627999999994,
+        "canopyBA" : 9775.5814499999997,
+        "canopyBApc" : 329.8275625,
+        "pctcandamc" : 0.033739943000000001,
+        "sumBAcangt" : 622.60704999999996,
+        "pctcanBAgt" : 0.063690026999999996,
+        "easting" : 613387.62829999998,
+        "northing" : 4323927.5199999996,
+        "PlotName" : "BCA3",
+        "Plot" : 103,
+        "POINT_X" : -79.689519629299994,
+        "POINT_Y" : 39.0570759155
+      },
+      "geometry" : {
+        "x" : 613387.62829999975,
+        "y" : 4323927.5199999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "nRows" : 133,
+        "SumBA" : 10558.132250000001,
+        "sumBAgte2" : 2849.4636500000001,
+        "PctBAgte2" : 0.26988330700000002,
+        "sumBAdampc" : 1262.5802630000001,
+        "pctBApct" : 0.119583676,
+        "canopyBA" : 8812.4806499999995,
+        "canopyBApc" : 563.02358749999996,
+        "pctcandamc" : 0.063889342000000002,
+        "sumBAcangt" : 1761.2731000000001,
+        "pctcanBAgt" : 0.19986121600000001,
+        "easting" : 613463.06629999995,
+        "northing" : 4323850.5199999996,
+        "PlotName" : "BCA4",
+        "Plot" : 104,
+        "POINT_X" : -79.688660798499996,
+        "POINT_Y" : 39.0563724306
+      },
+      "geometry" : {
+        "x" : 613463.0662999996,
+        "y" : 4323850.5199999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "nRows" : 154,
+        "SumBA" : 10462.794,
+        "sumBAgte2" : 3774.0680499999999,
+        "PctBAgte2" : 0.360713214,
+        "sumBAdampc" : 1816.35655,
+        "pctBApct" : 0.173601483,
+        "canopyBA" : 7570.5949499999997,
+        "canopyBApc" : 1212.499225,
+        "pctcandamc" : 0.160159041,
+        "sumBAcangt" : 2438.4769000000001,
+        "pctcanBAgt" : 0.32209844999999998,
+        "easting" : 613491.56640000001,
+        "northing" : 4323745.5190000003,
+        "PlotName" : "BCA5",
+        "Plot" : 105,
+        "POINT_X" : -79.688348994699993,
+        "POINT_Y" : 39.055422782999997
+      },
+      "geometry" : {
+        "x" : 613491.56640000013,
+        "y" : 4323745.5190000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "nRows" : 32,
+        "SumBA" : 13327.272209999999,
+        "sumBAgte2" : 4377.7779469999996,
+        "PctBAgte2" : 0.328482669,
+        "sumBAdampc" : 1149.047331,
+        "pctBApct" : 0.086217742999999999,
+        "canopyBA" : 11942.55242,
+        "canopyBApc" : 943.79530150000005,
+        "pctcandamc" : 0.079027939000000005,
+        "sumBAcangt" : 3775.1812060000002,
+        "pctcanBAgt" : 0.31611175499999999,
+        "easting" : 613549.72180000006,
+        "northing" : 4324300.5515999999,
+        "PlotName" : "301",
+        "Plot" : 301,
+        "POINT_X" : -79.687584464799997,
+        "POINT_Y" : 39.060415454800001
+      },
+      "geometry" : {
+        "x" : 613549.72179999971,
+        "y" : 4324300.5515999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "nRows" : 43,
+        "SumBA" : 14116.89581,
+        "sumBAgte2" : 5366.7198980000003,
+        "PctBAgte2" : 0.380162889,
+        "sumBAdampc" : 1419.381378,
+        "pctBApct" : 0.100544865,
+        "canopyBA" : 10581.292460000001,
+        "canopyBApc" : 974.12148809999997,
+        "pctcandamc" : 0.092060727999999994,
+        "sumBAcangt" : 3644.8365269999999,
+        "pctcanBAgt" : 0.34446042799999999,
+        "easting" : 613599.72169999999,
+        "northing" : 4324300.5509000001,
+        "PlotName" : "302",
+        "Plot" : 302,
+        "POINT_X" : -79.687006704200002,
+        "POINT_Y" : 39.060408944199999
+      },
+      "geometry" : {
+        "x" : 613599.72169999988,
+        "y" : 4324300.5509000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "nRows" : 41,
+        "SumBA" : 13520.44089,
+        "sumBAgte2" : 2607.4355089999999,
+        "PctBAgte2" : 0.192851367,
+        "sumBAdampc" : 756.04979749999995,
+        "pctBApct" : 0.055919019,
+        "canopyBA" : 12430.77162,
+        "canopyBApc" : 411.90010330000001,
+        "pctcandamc" : 0.033135522000000001,
+        "sumBAcangt" : 1647.6004129999999,
+        "pctcanBAgt" : 0.132542087,
+        "easting" : 613599.72169999999,
+        "northing" : 4323900.5505999997,
+        "PlotName" : "303",
+        "Plot" : 303,
+        "POINT_X" : -79.687073454499995,
+        "POINT_Y" : 39.0568053836
+      },
+      "geometry" : {
+        "x" : 613599.72170000058,
+        "y" : 4323900.5505999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "nRows" : 52,
+        "SumBA" : 11941.272220000001,
+        "sumBAgte2" : 7022.2135630000002,
+        "PctBAgte2" : 0.588062431,
+        "sumBAdampc" : 1779.523743,
+        "pctBApct" : 0.14902296100000001,
+        "canopyBA" : 9329.6662429999997,
+        "canopyBApc" : 1112.7796069999999,
+        "pctcandamc" : 0.119273249,
+        "sumBAcangt" : 4772.0085550000003,
+        "pctcanBAgt" : 0.51148759600000004,
+        "easting" : 613649.72149999999,
+        "northing" : 4323900.5502000004,
+        "PlotName" : "304",
+        "Plot" : 304,
+        "POINT_X" : -79.686495724500006,
+        "POINT_Y" : 39.056798873699996
+      },
+      "geometry" : {
+        "x" : 613649.72149999964,
+        "y" : 4323900.5502000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "nRows" : 43,
+        "SumBA" : 13465.45516,
+        "sumBAgte2" : 4227.9396850000003,
+        "PctBAgte2" : 0.31398416400000001,
+        "sumBAdampc" : 1182.76251,
+        "pctBApct" : 0.087836801000000006,
+        "canopyBA" : 9822.1423080000004,
+        "canopyBApc" : 787.13192979999997,
+        "pctcandamc" : 0.080138518000000006,
+        "sumBAcangt" : 2852.9352669999998,
+        "pctcanBAgt" : 0.290459574,
+        "easting" : 613599.7219,
+        "northing" : 4324150.5513000004,
+        "PlotName" : "305",
+        "Plot" : 305,
+        "POINT_X" : -79.687031734599998,
+        "POINT_Y" : 39.059057613900002
+      },
+      "geometry" : {
+        "x" : 613599.72189999942,
+        "y" : 4324150.5513000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "nRows" : 28,
+        "SumBA" : 10654.51514,
+        "sumBAgte2" : 3840.8719080000001,
+        "PctBAgte2" : 0.36049241700000001,
+        "sumBAdampc" : 1171.7767530000001,
+        "pctBApct" : 0.10997936,
+        "canopyBA" : 8891.7596429999994,
+        "canopyBApc" : 607.24040749999995,
+        "pctcandamc" : 0.068292489999999997,
+        "sumBAcangt" : 2428.9616299999998,
+        "pctcanBAgt" : 0.27316995999999999,
+        "easting" : 613649.7219,
+        "northing" : 4324150.551,
+        "PlotName" : "306",
+        "Plot" : 306,
+        "POINT_X" : -79.686453983899995,
+        "POINT_Y" : 39.059051104300003
+      },
+      "geometry" : {
+        "x" : 613649.72189999919,
+        "y" : 4324150.551
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "nRows" : 48,
+        "SumBA" : 15855.97941,
+        "sumBAgte2" : 5261.9320749999997,
+        "PctBAgte2" : 0.33185790300000001,
+        "sumBAdampc" : 1395.5720329999999,
+        "pctBApct" : 0.088015504999999994,
+        "canopyBA" : 13467.850630000001,
+        "canopyBApc" : 950.645937,
+        "pctcandamc" : 0.070586313999999997,
+        "sumBAcangt" : 3802.583748,
+        "pctcanBAgt" : 0.28234525700000002,
+        "easting" : 613799.72129999998,
+        "northing" : 4324350.5488999998,
+        "PlotName" : "307",
+        "Plot" : 307,
+        "POINT_X" : -79.684687304099995,
+        "POINT_Y" : 39.060833324699999
+      },
+      "geometry" : {
+        "x" : 613799.72129999986,
+        "y" : 4324350.5488999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "nRows" : 45,
+        "SumBA" : 13320.33714,
+        "sumBAgte2" : 5016.4323169999998,
+        "PctBAgte2" : 0.376599501,
+        "sumBAdampc" : 1197.3944779999999,
+        "pctBApct" : 0.089892205000000003,
+        "canopyBA" : 11710.365159999999,
+        "canopyBApc" : 765.65718059999995,
+        "pctcandamc" : 0.065382861,
+        "sumBAcangt" : 3603.2418400000001,
+        "pctcanBAgt" : 0.30769679599999999,
+        "easting" : 613699.72180000006,
+        "northing" : 4324150.5498000002,
+        "PlotName" : "308",
+        "Plot" : 308,
+        "POINT_X" : -79.685876234700004,
+        "POINT_Y" : 39.059044583800002
+      },
+      "geometry" : {
+        "x" : 613699.72179999971,
+        "y" : 4324150.5498000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "nRows" : 33,
+        "SumBA" : 7526.886861,
+        "sumBAgte2" : 3905.3138279999998,
+        "PctBAgte2" : 0.51884848299999997,
+        "sumBAdampc" : 970.14148290000003,
+        "pctBApct" : 0.12889013799999999,
+        "canopyBA" : 5424.1717740000004,
+        "canopyBApc" : 512.2818426,
+        "pctcandamc" : 0.094444251000000007,
+        "sumBAcangt" : 2049.1273700000002,
+        "pctcanBAgt" : 0.37777700600000003,
+        "easting" : 613799.72210000001,
+        "northing" : 4324300.5493999999,
+        "PlotName" : "309",
+        "Plot" : 309,
+        "POINT_X" : -79.684695654099997,
+        "POINT_Y" : 39.060382884900001
+      },
+      "geometry" : {
+        "x" : 613799.72209999943,
+        "y" : 4324300.5493999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "nRows" : 55,
+        "SumBA" : 10941.350399999999,
+        "sumBAgte2" : 6116.9636399999999,
+        "PctBAgte2" : 0.55906843500000003,
+        "sumBAdampc" : 1590.743477,
+        "pctBApct" : 0.14538822200000001,
+        "canopyBA" : 8817.2332119999992,
+        "canopyBApc" : 1210.0806219999999,
+        "pctcandamc" : 0.13724040100000001,
+        "sumBAcangt" : 4840.3224870000004,
+        "pctcanBAgt" : 0.54896160400000005,
+        "easting" : 613749.72210000001,
+        "northing" : 4324400.5488999998,
+        "PlotName" : "310",
+        "Plot" : 310,
+        "POINT_X" : -79.685256703899995,
+        "POINT_Y" : 39.061290284599998
+      },
+      "geometry" : {
+        "x" : 613749.7220999999,
+        "y" : 4324400.5488999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "nRows" : 43,
+        "SumBA" : 12426.546179999999,
+        "sumBAgte2" : 4985.2363020000003,
+        "PctBAgte2" : 0.40117633899999999,
+        "sumBAdampc" : 1400.885252,
+        "pctBApct" : 0.11273327499999999,
+        "canopyBA" : 10345.767260000001,
+        "canopyBApc" : 982.54684689999999,
+        "pctcandamc" : 0.094970901999999996,
+        "sumBAcangt" : 3603.336088,
+        "pctcanBAgt" : 0.34829085100000001,
+        "easting" : 613749.72169999999,
+        "northing" : 4324350.5493999999,
+        "PlotName" : "311",
+        "Plot" : 311,
+        "POINT_X" : -79.685265064199996,
+        "POINT_Y" : 39.060839844999997
+      },
+      "geometry" : {
+        "x" : 613749.72169999941,
+        "y" : 4324350.5493999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "nRows" : 38,
+        "SumBA" : 13941.791289999999,
+        "sumBAgte2" : 4653.1306889999996,
+        "PctBAgte2" : 0.333754149,
+        "sumBAdampc" : 1316.093666,
+        "pctBApct" : 0.094399179999999999,
+        "canopyBA" : 12544.725039999999,
+        "canopyBApc" : 1041.899386,
+        "pctcandamc" : 0.083054780999999994,
+        "sumBAcangt" : 3766.8481320000001,
+        "pctcanBAgt" : 0.30027347100000001,
+        "easting" : 613849.72180000006,
+        "northing" : 4324350.5488,
+        "PlotName" : "312",
+        "Plot" : 312,
+        "POINT_X" : -79.684109533699996,
+        "POINT_Y" : 39.060826804999998
+      },
+      "geometry" : {
+        "x" : 613849.72179999994,
+        "y" : 4324350.5488
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "nRows" : 48,
+        "SumBA" : 14634.760270000001,
+        "sumBAgte2" : 2372.5576329999999,
+        "PctBAgte2" : 0.16211797,
+        "sumBAdampc" : 890.05260610000005,
+        "pctBApct" : 0.060817709999999997,
+        "canopyBA" : 12412.61809,
+        "canopyBApc" : 361.2867091,
+        "pctcandamc" : 0.029106407000000001,
+        "sumBAcangt" : 1174.01451,
+        "pctcanBAgt" : 0.094582343999999999,
+        "easting" : 613749.72180000006,
+        "northing" : 4324050.5488999998,
+        "PlotName" : "313",
+        "Plot" : 313,
+        "POINT_X" : -79.685315194099999,
+        "POINT_Y" : 39.058137174300001
+      },
+      "geometry" : {
+        "x" : 613749.72179999982,
+        "y" : 4324050.5488999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "nRows" : 74,
+        "SumBA" : 14515.58748,
+        "sumBAgte2" : 6595.7580680000001,
+        "PctBAgte2" : 0.45439139699999997,
+        "sumBAdampc" : 1645.128373,
+        "pctBApct" : 0.113335294,
+        "canopyBA" : 11485.05013,
+        "canopyBApc" : 1397.7966730000001,
+        "pctcandamc" : 0.121705753,
+        "sumBAcangt" : 5591.1866929999997,
+        "pctcanBAgt" : 0.486823012,
+        "easting" : 613749.72129999998,
+        "northing" : 4323750.5495999996,
+        "PlotName" : "314",
+        "Plot" : 314,
+        "POINT_X" : -79.685365324000003,
+        "POINT_Y" : 39.0554345133
+      },
+      "geometry" : {
+        "x" : 613749.72130000114,
+        "y" : 4323750.5495999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "nRows" : 55,
+        "SumBA" : 13225.23328,
+        "sumBAgte2" : 4825.5412939999997,
+        "PctBAgte2" : 0.36487381299999999,
+        "sumBAdampc" : 1362.2829320000001,
+        "pctBApct" : 0.103006344,
+        "canopyBA" : 11832.7459,
+        "canopyBApc" : 1123.478693,
+        "pctcandamc" : 0.094946575000000005,
+        "sumBAcangt" : 3805.7803180000001,
+        "pctcanBAgt" : 0.32163120499999998,
+        "easting" : 613899.72169999999,
+        "northing" : 4324250.5476000002,
+        "PlotName" : "315",
+        "Plot" : 315,
+        "POINT_X" : -79.683548503699996,
+        "POINT_Y" : 39.059919384799997
+      },
+      "geometry" : {
+        "x" : 613899.72170000034,
+        "y" : 4324250.5476000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "nRows" : 67,
+        "SumBA" : 10963.054480000001,
+        "sumBAgte2" : 1873.1768970000001,
+        "PctBAgte2" : 0.17086268199999999,
+        "sumBAdampc" : 477.31259799999998,
+        "pctBApct" : 0.043538286000000002,
+        "canopyBA" : 8528.9089899999999,
+        "canopyBApc" : 63.546585039999997,
+        "pctcandamc" : 0.0074507280000000002,
+        "sumBAcangt" : 254.1863401,
+        "pctcanBAgt" : 0.029802914,
+        "easting" : 613799.72160000005,
+        "northing" : 4324050.5482999999,
+        "PlotName" : "316",
+        "Plot" : 316,
+        "POINT_X" : -79.684737453699995,
+        "POINT_Y" : 39.058130653799999
+      },
+      "geometry" : {
+        "x" : 613799.72160000016,
+        "y" : 4324050.5482999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "nRows" : 77,
+        "SumBA" : 15982.153619999999,
+        "sumBAgte2" : 7642.5131780000002,
+        "PctBAgte2" : 0.47819044700000002,
+        "sumBAdampc" : 1744.601013,
+        "pctBApct" : 0.10915932,
+        "canopyBA" : 13294.20695,
+        "canopyBApc" : 1181.4273330000001,
+        "pctcandamc" : 0.088867830999999994,
+        "sumBAcangt" : 5764.0999529999999,
+        "pctcanBAgt" : 0.43357982699999997,
+        "easting" : 613799.72180000006,
+        "northing" : 4324150.5484999996,
+        "PlotName" : "317",
+        "Plot" : 317,
+        "POINT_X" : -79.684720734500004,
+        "POINT_Y" : 39.059031544200003
+      },
+      "geometry" : {
+        "x" : 613799.72180000064,
+        "y" : 4324150.5484999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "nRows" : 51,
+        "SumBA" : 9211.6523149999994,
+        "sumBAgte2" : 1119.8599710000001,
+        "PctBAgte2" : 0.121569935,
+        "sumBAdampc" : 344.84869859999998,
+        "pctBApct" : 0.037436139,
+        "canopyBA" : 7500.7880800000003,
+        "canopyBApc" : 0,
+        "pctcandamc" : 0,
+        "sumBAcangt" : 0,
+        "pctcanBAgt" : 0,
+        "easting" : 613849.72140000004,
+        "northing" : 4324250.5484999996,
+        "PlotName" : "318",
+        "Plot" : 318,
+        "POINT_X" : -79.684126264100001,
+        "POINT_Y" : 39.059925914200001
+      },
+      "geometry" : {
+        "x" : 613849.72140000004,
+        "y" : 4324250.5484999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "nRows" : 126,
+        "SumBA" : 11409.472599999999,
+        "sumBAgte2" : 6505.9700999999995,
+        "PctBAgte2" : 0.57022531399999998,
+        "sumBAdampc" : 2224.60365,
+        "pctBApct" : 0.194978657,
+        "canopyBA" : 9481.5753999999997,
+        "canopyBApc" : 1738.0626130000001,
+        "pctcandamc" : 0.183309475,
+        "sumBAcangt" : 5450.9222499999996,
+        "pctcanBAgt" : 0.57489626100000002,
+        "easting" : 615599.39110000001,
+        "northing" : 4322533.5120000001,
+        "PlotName" : "4A1",
+        "Plot" : 401,
+        "POINT_X" : -79.664200171600001,
+        "POINT_Y" : 39.044227533700003
+      },
+      "geometry" : {
+        "x" : 615599.39110000024,
+        "y" : 4322533.5120000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "nRows" : 181,
+        "SumBA" : 9919.2757000000001,
+        "sumBAgte2" : 1861.8630000000001,
+        "PctBAgte2" : 0.18770150699999999,
+        "sumBAdampc" : 1010.936738,
+        "pctBApct" : 0.101916387,
+        "canopyBA" : 7646.39455,
+        "canopyBApc" : 717.2564625,
+        "pctcandamc" : 0.093803224000000004,
+        "sumBAcangt" : 1222.7552499999999,
+        "pctcanBAgt" : 0.15991265499999999,
+        "easting" : 615278.6385,
+        "northing" : 4322539.1050000004,
+        "PlotName" : "4A2",
+        "Plot" : 402,
+        "POINT_X" : -79.667904721200003,
+        "POINT_Y" : 39.044320305900001
+      },
+      "geometry" : {
+        "x" : 615278.63849999988,
+        "y" : 4322539.1050000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "nRows" : 166,
+        "SumBA" : 12953.99935,
+        "sumBAgte2" : 4961.1999999999998,
+        "PctBAgte2" : 0.38298597000000001,
+        "sumBAdampc" : 1664.672963,
+        "pctBApct" : 0.128506488,
+        "canopyBA" : 11001.6651,
+        "canopyBApc" : 1250.2616499999999,
+        "pctcandamc" : 0.11364294799999999,
+        "sumBAcangt" : 4147.1157499999999,
+        "pctcanBAgt" : 0.37695346200000002,
+        "easting" : 615353.57709999999,
+        "northing" : 4322634.5130000003,
+        "PlotName" : "4A3",
+        "Plot" : 403,
+        "POINT_X" : -79.667022835500006,
+        "POINT_Y" : 39.045169929399997
+      },
+      "geometry" : {
+        "x" : 615353.57709999988,
+        "y" : 4322634.5130000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "nRows" : 154,
+        "SumBA" : 11271.406800000001,
+        "sumBAgte2" : 2596.2697499999999,
+        "PctBAgte2" : 0.23034123400000001,
+        "sumBAdampc" : 1178.775625,
+        "pctBApct" : 0.10458105600000001,
+        "canopyBA" : 8989.5766500000009,
+        "canopyBApc" : 454.34230000000002,
+        "pctcandamc" : 0.050541012000000003,
+        "sumBAcangt" : 1261.9346,
+        "pctcanBAgt" : 0.140377534,
+        "easting" : 614886.32449999999,
+        "northing" : 4322554.5120000001,
+        "PlotName" : "4A4",
+        "Plot" : 404,
+        "POINT_X" : -79.672434346299994,
+        "POINT_Y" : 39.044510787699998
+      },
+      "geometry" : {
+        "x" : 614886.32449999999,
+        "y" : 4322554.5120000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "nRows" : 170,
+        "SumBA" : 12973.883400000001,
+        "sumBAgte2" : 4480.9369999999999,
+        "PctBAgte2" : 0.34538132199999999,
+        "sumBAdampc" : 1608.2452000000001,
+        "pctBApct" : 0.12396020100000001,
+        "canopyBA" : 10323.8804,
+        "canopyBApc" : 1274.396475,
+        "pctcandamc" : 0.123441616,
+        "sumBAcangt" : 3758.6192500000002,
+        "pctcanBAgt" : 0.36407039800000002,
+        "easting" : 614991.32510000002,
+        "northing" : 4322715.0130000003,
+        "PlotName" : "4A5",
+        "Plot" : 405,
+        "POINT_X" : -79.671194225400001,
+        "POINT_Y" : 39.0459429032
+      },
+      "geometry" : {
+        "x" : 614991.32510000025,
+        "y" : 4322715.0130000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "nRows" : 144,
+        "SumBA" : 16783.692500000001,
+        "sumBAgte2" : 4916.9338500000003,
+        "PctBAgte2" : 0.29295900499999999,
+        "sumBAdampc" : 1646.0154749999999,
+        "pctBApct" : 0.098072308999999996,
+        "canopyBA" : 13726.98885,
+        "canopyBApc" : 1361.2135499999999,
+        "pctcandamc" : 0.099163302999999994,
+        "sumBAcangt" : 3875.83545,
+        "pctcanBAgt" : 0.28235146799999999,
+        "easting" : 614279.0466,
+        "northing" : 4323729.523,
+        "PlotName" : "4B1",
+        "Plot" : 411,
+        "POINT_X" : -79.679252817999995,
+        "POINT_Y" : 39.055175975499999
+      },
+      "geometry" : {
+        "x" : 614279.04659999965,
+        "y" : 4323729.523
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "nRows" : 170,
+        "SumBA" : 11156.06675,
+        "sumBAgte2" : 4203.4944500000001,
+        "PctBAgte2" : 0.37679000499999998,
+        "sumBAdampc" : 1303.258963,
+        "pctBApct" : 0.116820649,
+        "canopyBA" : 7924.15895,
+        "canopyBApc" : 1031.001338,
+        "pctcandamc" : 0.13010861400000001,
+        "sumBAcangt" : 3329.8679499999998,
+        "pctcanBAgt" : 0.42021720800000001,
+        "easting" : 614235.80290000001,
+        "northing" : 4323770.5159999998,
+        "PlotName" : "4B2",
+        "Plot" : 412,
+        "POINT_X" : -79.679745592900005,
+        "POINT_Y" : 39.055550934400003
+      },
+      "geometry" : {
+        "x" : 614235.80289999978,
+        "y" : 4323770.5159999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "nRows" : 142,
+        "SumBA" : 12744.380800000001,
+        "sumBAgte2" : 2326.1120000000001,
+        "PctBAgte2" : 0.18252059800000001,
+        "sumBAdampc" : 813.15206250000006,
+        "pctBApct" : 0.063804752000000006,
+        "canopyBA" : 10844.916300000001,
+        "canopyBApc" : 621.24900000000002,
+        "pctcandamc" : 0.057284812999999997,
+        "sumBAcangt" : 1891.3397500000001,
+        "pctcanBAgt" : 0.174398741,
+        "easting" : 614235.78639999998,
+        "northing" : 4323917.909,
+        "PlotName" : "4B3",
+        "Plot" : 413,
+        "POINT_X" : -79.6797210525,
+        "POINT_Y" : 39.0568787813
+      },
+      "geometry" : {
+        "x" : 614235.78639999963,
+        "y" : 4323917.909
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "nRows" : 188,
+        "SumBA" : 11517.386549999999,
+        "sumBAgte2" : 4720.4090999999999,
+        "PctBAgte2" : 0.409850714,
+        "sumBAdampc" : 1209.5535130000001,
+        "pctBApct" : 0.10501979,
+        "canopyBA" : 8678.2849000000006,
+        "canopyBApc" : 920.05532500000004,
+        "pctcandamc" : 0.106018106,
+        "sumBAcangt" : 3680.2213000000002,
+        "pctcanBAgt" : 0.424072422,
+        "easting" : 614372.84160000004,
+        "northing" : 4323952.3210000005,
+        "PlotName" : "4B4",
+        "Plot" : 414,
+        "POINT_X" : -79.678131650300003,
+        "POINT_Y" : 39.057170853199999
+      },
+      "geometry" : {
+        "x" : 614372.84159999993,
+        "y" : 4323952.3210000005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "nRows" : 174,
+        "SumBA" : 11811.6595,
+        "sumBAgte2" : 1948.1894500000001,
+        "PctBAgte2" : 0.16493782700000001,
+        "sumBAdampc" : 920.23391249999997,
+        "pctBApct" : 0.077908942999999994,
+        "canopyBA" : 8226.7607499999995,
+        "canopyBApc" : 310.14957500000003,
+        "pctcandamc" : 0.037700084000000002,
+        "sumBAcangt" : 989.07645000000002,
+        "pctcanBAgt" : 0.120226719,
+        "easting" : 614192.54370000004,
+        "northing" : 4324077.1799999997,
+        "PlotName" : "4C1",
+        "Plot" : 421,
+        "POINT_X" : -79.680193990000006,
+        "POINT_Y" : 39.058319289499998
+      },
+      "geometry" : {
+        "x" : 614192.54370000015,
+        "y" : 4324077.1799999988
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "nRows" : 191,
+        "SumBA" : 11788.2508,
+        "sumBAgte2" : 3278.3876500000001,
+        "PctBAgte2" : 0.27810637100000002,
+        "sumBAdampc" : 1200.143325,
+        "pctBApct" : 0.101808432,
+        "canopyBA" : 7890.9220500000001,
+        "canopyBApc" : 580.35442499999999,
+        "pctcandamc" : 0.073547099000000005,
+        "sumBAcangt" : 1873.01785,
+        "pctcanBAgt" : 0.237363623,
+        "easting" : 614209.88569999998,
+        "northing" : 4324550.1370000001,
+        "PlotName" : "4C2",
+        "Plot" : 422,
+        "POINT_X" : -79.679914249500001,
+        "POINT_Y" : 39.062577827600002
+      },
+      "geometry" : {
+        "x" : 614209.8857000001,
+        "y" : 4324550.1370000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "nRows" : 205,
+        "SumBA" : 13644.2891,
+        "sumBAgte2" : 7061.8521499999997,
+        "PctBAgte2" : 0.51756834699999998,
+        "sumBAdampc" : 2245.5278250000001,
+        "pctBApct" : 0.16457638899999999,
+        "canopyBA" : 9075.2044499999993,
+        "canopyBApc" : 1240.3942,
+        "pctcandamc" : 0.13667947699999999,
+        "sumBAcangt" : 4466.9483,
+        "pctcanBAgt" : 0.49221461900000002,
+        "easting" : 614356.18649999995,
+        "northing" : 4324478.4639999997,
+        "PlotName" : "4C3",
+        "Plot" : 423,
+        "POINT_X" : -79.678235705299997,
+        "POINT_Y" : 39.061912984000003
+      },
+      "geometry" : {
+        "x" : 614356.18649999972,
+        "y" : 4324478.4639999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "nRows" : 213,
+        "SumBA" : 12063.825049999999,
+        "sumBAgte2" : 4379.4207999999999,
+        "PctBAgte2" : 0.36302091399999997,
+        "sumBAdampc" : 1742.2957249999999,
+        "pctBApct" : 0.144423159,
+        "canopyBA" : 7416.73495,
+        "canopyBApc" : 1137.7672250000001,
+        "pctcandamc" : 0.153405404,
+        "sumBAcangt" : 2794.0504999999998,
+        "pctcanBAgt" : 0.37672244199999999,
+        "easting" : 614252.80610000005,
+        "northing" : 4324370.534,
+        "PlotName" : "4C4",
+        "Plot" : 424,
+        "POINT_X" : -79.679448428800001,
+        "POINT_Y" : 39.060954192899999
+      },
+      "geometry" : {
+        "x" : 614252.80609999993,
+        "y" : 4324370.534
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "nRows" : 28,
+        "SumBA" : 7995.5260909999997,
+        "sumBAgte2" : 3787.5198110000001,
+        "PctBAgte2" : 0.47370488999999999,
+        "sumBAdampc" : 1393.162824,
+        "pctBApct" : 0.17424279600000001,
+        "canopyBA" : 6675.6094999999996,
+        "canopyBApc" : 1285.826384,
+        "pctcandamc" : 0.19261557800000001,
+        "sumBAcangt" : 3171.9482929999999,
+        "pctcanBAgt" : 0.47515485899999998,
+        "easting" : 613679.7219,
+        "northing" : 4324680.5505999997,
+        "PlotName" : "701",
+        "Plot" : 701,
+        "POINT_X" : -79.686018814799993,
+        "POINT_Y" : 39.063821905300003
+      },
+      "geometry" : {
+        "x" : 613679.72189999942,
+        "y" : 4324680.5505999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "nRows" : 41,
+        "SumBA" : 14592.39565,
+        "sumBAgte2" : 7162.1397070000003,
+        "PctBAgte2" : 0.49081315199999997,
+        "sumBAdampc" : 1971.905354,
+        "pctBApct" : 0.13513239399999999,
+        "canopyBA" : 12043.491239999999,
+        "canopyBApc" : 1213.6989120000001,
+        "pctcandamc" : 0.10077633499999999,
+        "sumBAcangt" : 4854.7956480000003,
+        "pctcanBAgt" : 0.40310534100000001,
+        "easting" : 613919.72199999995,
+        "northing" : 4324400.5472999997,
+        "PlotName" : "702",
+        "Plot" : 702,
+        "POINT_X" : -79.683292293099996,
+        "POINT_Y" : 39.0612681044
+      },
+      "geometry" : {
+        "x" : 613919.72200000007,
+        "y" : 4324400.5472999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "nRows" : 43,
+        "SumBA" : 82220.661089999994,
+        "sumBAgte2" : 81267.645529999994,
+        "PctBAgte2" : 0.98840905000000001,
+        "sumBAdampc" : 39126.015240000001,
+        "pctBApct" : 0.475865977,
+        "canopyBA" : 7408.2943299999997,
+        "canopyBApc" : 2073.2672309999998,
+        "pctcandamc" : 0.279857568,
+        "sumBAcangt" : 6724.5188349999999,
+        "pctcanBAgt" : 0.90770136000000001,
+        "easting" : 613919.72149999999,
+        "northing" : 4324440.5478999997,
+        "PlotName" : "703",
+        "Plot" : 703,
+        "POINT_X" : -79.683285604000005,
+        "POINT_Y" : 39.061628464899997
+      },
+      "geometry" : {
+        "x" : 613919.72150000033,
+        "y" : 4324440.5478999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "nRows" : 23,
+        "SumBA" : 9326.5639200000005,
+        "sumBAgte2" : 4162.4531859999997,
+        "PctBAgte2" : 0.44630082700000001,
+        "sumBAdampc" : 1039.435199,
+        "pctBApct" : 0.11144888999999999,
+        "canopyBA" : 8074.5999780000002,
+        "canopyBApc" : 920.49842850000005,
+        "pctcandamc" : 0.113999261,
+        "sumBAcangt" : 3681.9937140000002,
+        "pctcanBAgt" : 0.45599704299999999,
+        "easting" : 613559.72169999999,
+        "northing" : 4324560.5515000001,
+        "PlotName" : "704",
+        "Plot" : 704,
+        "POINT_X" : -79.687425534799999,
+        "POINT_Y" : 39.062756465100001
+      },
+      "geometry" : {
+        "x" : 613559.72169999953,
+        "y" : 4324560.5515000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "nRows" : 43,
+        "SumBA" : 10322.14437,
+        "sumBAgte2" : 4640.1794730000001,
+        "PctBAgte2" : 0.44953638600000001,
+        "sumBAdampc" : 1633.6222889999999,
+        "pctBApct" : 0.15826384800000001,
+        "canopyBA" : 8227.9803850000008,
+        "canopyBApc" : 1258.3374490000001,
+        "pctcandamc" : 0.15293393899999999,
+        "sumBAcangt" : 3341.0052470000001,
+        "pctcanBAgt" : 0.406054109,
+        "easting" : 613959.72160000005,
+        "northing" : 4324400.5473999996,
+        "PlotName" : "705",
+        "Plot" : 705,
+        "POINT_X" : -79.682830083400006,
+        "POINT_Y" : 39.0612628851
+      },
+      "geometry" : {
+        "x" : 613959.7216000011,
+        "y" : 4324400.5473999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "nRows" : 49,
+        "SumBA" : 9601.8459770000009,
+        "sumBAgte2" : 4910.4899590000005,
+        "PctBAgte2" : 0.51141103200000004,
+        "sumBAdampc" : 1359.7303879999999,
+        "pctBApct" : 0.141611352,
+        "canopyBA" : 6541.1571880000001,
+        "canopyBApc" : 846.18405429999996,
+        "pctcandamc" : 0.12936305200000001,
+        "sumBAcangt" : 3092.1832549999999,
+        "pctcanBAgt" : 0.47272725100000001,
+        "easting" : 613959.72210000001,
+        "northing" : 4324640.5475000003,
+        "PlotName" : "706",
+        "Plot" : 706,
+        "POINT_X" : -79.682789893099994,
+        "POINT_Y" : 39.063425015599996
+      },
+      "geometry" : {
+        "x" : 613959.72210000013,
+        "y" : 4324640.5475000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "nRows" : 29,
+        "SumBA" : 10932.169089999999,
+        "sumBAgte2" : 6835.4615880000001,
+        "PctBAgte2" : 0.62526123899999997,
+        "sumBAdampc" : 1867.166324,
+        "pctBApct" : 0.17079559499999999,
+        "canopyBA" : 10080.192730000001,
+        "canopyBApc" : 1594.17174,
+        "pctcandamc" : 0.15814893499999999,
+        "sumBAcangt" : 6122.2179539999997,
+        "pctcanBAgt" : 0.60735128000000005,
+        "easting" : 613719.72149999999,
+        "northing" : 4324720.5499999998,
+        "PlotName" : "707",
+        "Plot" : 707,
+        "POINT_X" : -79.685549904200002,
+        "POINT_Y" : 39.064177045400001
+      },
+      "geometry" : {
+        "x" : 613719.72150000022,
+        "y" : 4324720.5499999989
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "nRows" : 51,
+        "SumBA" : 8403.2027159999998,
+        "sumBAgte2" : 3298.2324629999998,
+        "PctBAgte2" : 0.392497072,
+        "sumBAdampc" : 814.92520739999998,
+        "pctBApct" : 0.096977930000000004,
+        "canopyBA" : 5847.5877780000001,
+        "canopyBApc" : 544.84248690000004,
+        "pctcandamc" : 0.093173887999999996,
+        "sumBAcangt" : 2179.369948,
+        "pctcanBAgt" : 0.37269555100000001,
+        "easting" : 613999.72129999998,
+        "northing" : 4324680.5471999999,
+        "PlotName" : "708",
+        "Plot" : 708,
+        "POINT_X" : -79.682320973900005,
+        "POINT_Y" : 39.063780145199999
+      },
+      "geometry" : {
+        "x" : 613999.72129999963,
+        "y" : 4324680.5471999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "nRows" : 60,
+        "SumBA" : 9851.4926369999994,
+        "sumBAgte2" : 4714.054024,
+        "PctBAgte2" : 0.47851165299999998,
+        "sumBAdampc" : 1373.058595,
+        "pctBApct" : 0.139375691,
+        "canopyBA" : 8018.5382570000002,
+        "canopyBApc" : 1091.404996,
+        "pctcandamc" : 0.136110219,
+        "sumBAcangt" : 3795.483749,
+        "pctcanBAgt" : 0.47333860900000002,
+        "easting" : 614079.72169999999,
+        "northing" : 4324720.5456999997,
+        "PlotName" : "709",
+        "Plot" : 709,
+        "POINT_X" : -79.6813898037,
+        "POINT_Y" : 39.064130035600002
+      },
+      "geometry" : {
+        "x" : 614079.72170000023,
+        "y" : 4324720.5456999987
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "nRows" : 51,
+        "SumBA" : 12116.910809999999,
+        "sumBAgte2" : 6445.5663770000001,
+        "PctBAgte2" : 0.53194799199999998,
+        "sumBAdampc" : 1601.20498,
+        "pctBApct" : 0.13214630399999999,
+        "canopyBA" : 9327.8127039999999,
+        "canopyBApc" : 1176.33599,
+        "pctcandamc" : 0.12611059299999999,
+        "sumBAcangt" : 4705.3439589999998,
+        "pctcanBAgt" : 0.504442371,
+        "easting" : 614119.72149999999,
+        "northing" : 4324720.5455,
+        "PlotName" : "710",
+        "Plot" : 710,
+        "POINT_X" : -79.680927573399998,
+        "POINT_Y" : 39.064124805699997
+      },
+      "geometry" : {
+        "x" : 614119.72149999987,
+        "y" : 4324720.5455
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "nRows" : 62,
+        "SumBA" : 11814.28904,
+        "sumBAgte2" : 9222.8049690000007,
+        "PctBAgte2" : 0.78064832699999998,
+        "sumBAdampc" : 2336.1668370000002,
+        "pctBApct" : 0.197740789,
+        "canopyBA" : 9531.1601420000006,
+        "canopyBApc" : 1645.4602030000001,
+        "pctcandamc" : 0.172640075,
+        "sumBAcangt" : 7386.7482669999999,
+        "pctcanBAgt" : 0.77501040300000001,
+        "easting" : 613879.72210000001,
+        "northing" : 4324720.5475000003,
+        "PlotName" : "712",
+        "Plot" : 712,
+        "POINT_X" : -79.683700963600003,
+        "POINT_Y" : 39.064156165100002
+      },
+      "geometry" : {
+        "x" : 613879.72210000001,
+        "y" : 4324720.5475000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "nRows" : 62,
+        "SumBA" : 10097.928830000001,
+        "sumBAgte2" : 2992.7068439999998,
+        "PctBAgte2" : 0.29636838399999998,
+        "sumBAdampc" : 826.38669949999996,
+        "pctBApct" : 0.081837247000000002,
+        "canopyBA" : 8865.9125820000008,
+        "canopyBApc" : 597.57657400000005,
+        "pctcandamc" : 0.067401586999999999,
+        "sumBAcangt" : 2372.9882659999998,
+        "pctcanBAgt" : 0.26765301899999999,
+        "easting" : 614039.72210000001,
+        "northing" : 4324520.5465000002,
+        "PlotName" : "713",
+        "Plot" : 713,
+        "POINT_X" : -79.681885543700005,
+        "POINT_Y" : 39.062333495300003
+      },
+      "geometry" : {
+        "x" : 614039.72210000025,
+        "y" : 4324520.5465000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "nRows" : 40,
+        "SumBA" : 6790.1284059999998,
+        "sumBAgte2" : 3935.7069299999998,
+        "PctBAgte2" : 0.57962187099999996,
+        "sumBAdampc" : 1247.9316490000001,
+        "pctBApct" : 0.183786163,
+        "canopyBA" : 4279.3606460000001,
+        "canopyBApc" : 708.25875129999997,
+        "pctcandamc" : 0.16550574000000001,
+        "sumBAcangt" : 2320.1542180000001,
+        "pctcanBAgt" : 0.54217309800000002,
+        "easting" : 613999.72219999996,
+        "northing" : 4324440.5471000001,
+        "PlotName" : "714",
+        "Plot" : 714,
+        "POINT_X" : -79.682361162899994,
+        "POINT_Y" : 39.061618015100002
+      },
+      "geometry" : {
+        "x" : 613999.72220000008,
+        "y" : 4324440.547100001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "nRows" : 70,
+        "SumBA" : 11681.202929999999,
+        "sumBAgte2" : 3628.4534349999999,
+        "PctBAgte2" : 0.31062326899999998,
+        "sumBAdampc" : 776.94168320000006,
+        "pctBApct" : 0.066512130000000003,
+        "canopyBA" : 8916.0183930000003,
+        "canopyBApc" : 387.87116070000002,
+        "pctcandamc" : 0.043502732000000002,
+        "sumBAcangt" : 2117.2741700000001,
+        "pctcanBAgt" : 0.23746857399999999,
+        "easting" : 613999.72219999996,
+        "northing" : 4324480.5465000002,
+        "PlotName" : "715",
+        "Plot" : 715,
+        "POINT_X" : -79.682354463400003,
+        "POINT_Y" : 39.061978364600002
+      },
+      "geometry" : {
+        "x" : 613999.72220000019,
+        "y" : 4324480.5465000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "nRows" : 44,
+        "SumBA" : 10233.827289999999,
+        "sumBAgte2" : 4262.0417520000001,
+        "PctBAgte2" : 0.41646606200000003,
+        "sumBAdampc" : 1128.9701379999999,
+        "pctBApct" : 0.11031749,
+        "canopyBA" : 9240.9636890000002,
+        "canopyBApc" : 833.72602930000005,
+        "pctcandamc" : 0.090220679999999998,
+        "sumBAcangt" : 3334.904117,
+        "pctcanBAgt" : 0.36088272100000002,
+        "easting" : 614039.72180000006,
+        "northing" : 4324600.5465000002,
+        "PlotName" : "716",
+        "Plot" : 716,
+        "POINT_X" : -79.681872142700001,
+        "POINT_Y" : 39.063054205
+      },
+      "geometry" : {
+        "x" : 614039.72179999971,
+        "y" : 4324600.5465000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "nRows" : 52,
+        "SumBA" : 12968.824339999999,
+        "sumBAgte2" : 5981.6081199999999,
+        "PctBAgte2" : 0.461229789,
+        "sumBAdampc" : 1550.254238,
+        "pctBApct" : 0.119536991,
+        "canopyBA" : 8887.2278960000003,
+        "canopyBApc" : 829.68872929999998,
+        "pctcandamc" : 0.093357427000000007,
+        "sumBAcangt" : 3318.7549170000002,
+        "pctcanBAgt" : 0.37342970800000003,
+        "easting" : 613999.72140000004,
+        "northing" : 4324640.5466,
+        "PlotName" : "717",
+        "Plot" : 717,
+        "POINT_X" : -79.682327673100005,
+        "POINT_Y" : 39.063419785000001
+      },
+      "geometry" : {
+        "x" : 613999.72140000039,
+        "y" : 4324640.5466
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "nRows" : 30,
+        "SumBA" : 7769.6063089999998,
+        "sumBAgte2" : 3971.6799719999999,
+        "PctBAgte2" : 0.511181624,
+        "sumBAdampc" : 1042.2488880000001,
+        "pctBApct" : 0.13414436299999999,
+        "canopyBA" : 6206.640402,
+        "canopyBApc" : 686.39479789999996,
+        "pctcandamc" : 0.110590392,
+        "sumBAcangt" : 2657.1119429999999,
+        "pctcanBAgt" : 0.428107925,
+        "easting" : 613999.72140000004,
+        "northing" : 4324560.5466,
+        "PlotName" : "718",
+        "Plot" : 718,
+        "POINT_X" : -79.682341073100005,
+        "POINT_Y" : 39.062699075399998
+      },
+      "geometry" : {
+        "x" : 613999.72139999992,
+        "y" : 4324560.5466
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "nRows" : 55,
+        "SumBA" : 32632.547559999999,
+        "sumBAgte2" : 11054.903270000001,
+        "PctBAgte2" : 0.33876923799999997,
+        "sumBAdampc" : 3488.6306490000002,
+        "pctBApct" : 0.106906476,
+        "canopyBA" : 30130.700980000001,
+        "canopyBApc" : 3065.2009010000002,
+        "pctcandamc" : 0.101730156,
+        "sumBAcangt" : 10413.350780000001,
+        "pctcanBAgt" : 0.345605991,
+        "easting" : 615369.09039999999,
+        "northing" : 4322911.2981000002,
+        "PlotName" : "8A1",
+        "Plot" : 801,
+        "POINT_X" : -79.666796736099997,
+        "POINT_Y" : 39.047661393399999
+      },
+      "geometry" : {
+        "x" : 615369.09039999987,
+        "y" : 4322911.2981000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "nRows" : 88,
+        "SumBA" : 46063.23315,
+        "sumBAgte2" : 27046.693719999999,
+        "PctBAgte2" : 0.58716446700000002,
+        "sumBAdampc" : 8004.9724669999996,
+        "pctBApct" : 0.173782254,
+        "canopyBA" : 34885.79206,
+        "canopyBApc" : 5154.4621180000004,
+        "pctcandamc" : 0.14775247499999999,
+        "sumBAcangt" : 19048.552250000001,
+        "pctcanBAgt" : 0.546026079,
+        "easting" : 615387.59990000003,
+        "northing" : 4322934.0020000003,
+        "PlotName" : "8A2",
+        "Plot" : 802,
+        "POINT_X" : -79.666579048399996,
+        "POINT_Y" : 39.047863484200001
+      },
+      "geometry" : {
+        "x" : 615387.59989999968,
+        "y" : 4322934.0020000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "nRows" : 89,
+        "SumBA" : 29371.409449999999,
+        "sumBAgte2" : 4615.0388780000003,
+        "PctBAgte2" : 0.15712691200000001,
+        "sumBAdampc" : 2144.3922400000001,
+        "pctBApct" : 0.073009510999999999,
+        "canopyBA" : 25201.416440000001,
+        "canopyBApc" : 1231.3276060000001,
+        "pctcandamc" : 0.04885946,
+        "sumBAcangt" : 2500.5663810000001,
+        "pctcanBAgt" : 0.099223247000000001,
+        "easting" : 615470.29370000004,
+        "northing" : 4322949.6627000002,
+        "PlotName" : "8A3",
+        "Plot" : 803,
+        "POINT_X" : -79.665621024100005,
+        "POINT_Y" : 39.047993640800001
+      },
+      "geometry" : {
+        "x" : 615470.29369999957,
+        "y" : 4322949.6627000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "nRows" : 84,
+        "SumBA" : 40005.535649999998,
+        "sumBAgte2" : 25856.477780000001,
+        "PctBAgte2" : 0.64632249900000005,
+        "sumBAdampc" : 11488.45091,
+        "pctBApct" : 0.28717153099999998,
+        "canopyBA" : 26154.842690000001,
+        "canopyBApc" : 6197.9617529999996,
+        "pctcandamc" : 0.23697186100000001,
+        "sumBAcangt" : 17188.038250000001,
+        "pctcanBAgt" : 0.65716465800000001,
+        "easting" : 615433.24060000002,
+        "northing" : 4322974.3510999996,
+        "PlotName" : "8A4",
+        "Plot" : 804,
+        "POINT_X" : -79.666044918699995,
+        "POINT_Y" : 39.048220952100003
+      },
+      "geometry" : {
+        "x" : 615433.24060000002,
+        "y" : 4322974.3510999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "nRows" : 6,
+        "SumBA" : 2538.6267760000001,
+        "sumBAgte2" : 849.21176419999995,
+        "PctBAgte2" : 0.33451619300000002,
+        "sumBAdampc" : 217.2116796,
+        "pctBApct" : 0.085562667999999995,
+        "canopyBA" : 2501.6423759999998,
+        "canopyBApc" : 207.39420250000001,
+        "pctcandamc" : 0.082903218000000001,
+        "sumBAcangt" : 0,
+        "pctcanBAgt" : 0,
+        "easting" : 615395.93420000002,
+        "northing" : 4323016.9490999999,
+        "PlotName" : "8B1",
+        "Plot" : 811,
+        "POINT_X" : -79.666468707999996,
+        "POINT_Y" : 39.048609640000002
+      },
+      "geometry" : {
+        "x" : 615395.93420000048,
+        "y" : 4323016.9490999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "nRows" : 27,
+        "SumBA" : 8925.0055470000007,
+        "sumBAgte2" : 3795.4444789999998,
+        "PctBAgte2" : 0.42525962099999998,
+        "sumBAdampc" : 1135.679854,
+        "pctBApct" : 0.12724696299999999,
+        "canopyBA" : 5067.3182640000005,
+        "canopyBApc" : 361.36365849999999,
+        "pctcandamc" : 0.071312604000000002,
+        "sumBAcangt" : 0,
+        "pctcanBAgt" : 0,
+        "easting" : 615453.09580000001,
+        "northing" : 4323036.9753999999,
+        "PlotName" : "8B2",
+        "Plot" : 812,
+        "POINT_X" : -79.665804912900001,
+        "POINT_Y" : 39.048782499799998
+      },
+      "geometry" : {
+        "x" : 615453.09579999978,
+        "y" : 4323036.9753999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "nRows" : 18,
+        "SumBA" : 5028.5038869999998,
+        "sumBAgte2" : 2502.8833049999998,
+        "PctBAgte2" : 0.49773916099999999,
+        "sumBAdampc" : 1775.869678,
+        "pctBApct" : 0.353160645,
+        "canopyBA" : 4827.2141920000004,
+        "canopyBApc" : 1727.131795,
+        "pctcandamc" : 0.35779058600000002,
+        "sumBAcangt" : 1697.4260730000001,
+        "pctcanBAgt" : 0.35163678399999998,
+        "easting" : 615369.75190000003,
+        "northing" : 4323059.5972999996,
+        "PlotName" : "8B3",
+        "Plot" : 813,
+        "POINT_X" : -79.666763973499997,
+        "POINT_Y" : 39.048997309299999
+      },
+      "geometry" : {
+        "x" : 615369.75190000003,
+        "y" : 4323059.5972999986
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "nRows" : 18,
+        "SumBA" : 3577.8970410000002,
+        "sumBAgte2" : 1007.650136,
+        "PctBAgte2" : 0.28163195400000002,
+        "sumBAdampc" : 327.21847330000003,
+        "pctBApct" : 0.091455531000000007,
+        "canopyBA" : 3278.8174210000002,
+        "canopyBApc" : 292.29378050000003,
+        "pctcandamc" : 0.089146097999999993,
+        "sumBAcangt" : 221.67077760000001,
+        "pctcanBAgt" : 0.067606928999999996,
+        "easting" : 615379.1446,
+        "northing" : 4323081.1608999996,
+        "PlotName" : "8B4",
+        "Plot" : 814,
+        "POINT_X" : -79.666651803899995,
+        "POINT_Y" : 39.0491903315
+      },
+      "geometry" : {
+        "x" : 615379.14459999977,
+        "y" : 4323081.1608999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "nRows" : 16,
+        "SumBA" : 5484.3803969999999,
+        "sumBAgte2" : 49.016699379999999,
+        "PctBAgte2" : 0.0089375089999999997,
+        "sumBAdampc" : 24.508349689999999,
+        "pctBApct" : 0.0044687549999999996,
+        "canopyBA" : 4973.9422770000001,
+        "canopyBApc" : 0,
+        "pctcandamc" : 0,
+        "sumBAcangt" : 0,
+        "pctcanBAgt" : 0,
+        "easting" : 615463.00630000001,
+        "northing" : 4323118.4170000004,
+        "PlotName" : "8C1",
+        "Plot" : 821,
+        "POINT_X" : -79.665676607500004,
+        "POINT_Y" : 39.049514883400001
+      },
+      "geometry" : {
+        "x" : 615463.00630000047,
+        "y" : 4323118.4170000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "nRows" : 22,
+        "SumBA" : 6526.2660390000001,
+        "sumBAgte2" : 1884.1859019999999,
+        "PctBAgte2" : 0.28870810499999999,
+        "sumBAdampc" : 672.38918520000004,
+        "pctBApct" : 0.10302816099999999,
+        "canopyBA" : 5332.7749899999999,
+        "canopyBApc" : 0,
+        "pctcandamc" : 0,
+        "sumBAcangt" : 0,
+        "pctcanBAgt" : 0,
+        "easting" : 615388.14040000003,
+        "northing" : 4323136.7235000003,
+        "PlotName" : "8C2",
+        "Plot" : 822,
+        "POINT_X" : -79.666538458900007,
+        "POINT_Y" : 39.049689697399998
+      },
+      "geometry" : {
+        "x" : 615388.14039999968,
+        "y" : 4323136.7235000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "nRows" : 36,
+        "SumBA" : 4092.7255369999998,
+        "sumBAgte2" : 1125.4677139999999,
+        "PctBAgte2" : 0.27499222800000001,
+        "sumBAdampc" : 393.29009380000002,
+        "pctBApct" : 0.096094910000000006,
+        "canopyBA" : 3177.3125620000001,
+        "canopyBApc" : 196.9876769,
+        "pctcandamc" : 0.061998205000000001,
+        "sumBAcangt" : 0,
+        "pctcanBAgt" : 0,
+        "easting" : 615472.67500000005,
+        "northing" : 4323157.4934,
+        "PlotName" : "8C3",
+        "Plot" : 823,
+        "POINT_X" : -79.665558276100001,
+        "POINT_Y" : 39.049865637800004
+      },
+      "geometry" : {
+        "x" : 615472.67500000028,
+        "y" : 4323157.4933999991
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "nRows" : 18,
+        "SumBA" : 4225.0337120000004,
+        "sumBAgte2" : 1414.172225,
+        "PctBAgte2" : 0.33471264899999997,
+        "sumBAdampc" : 721.435337,
+        "pctBApct" : 0.170752563,
+        "canopyBA" : 3357.4357770000001,
+        "canopyBApc" : 534.70299660000001,
+        "pctcandamc" : 0.159259337,
+        "sumBAcangt" : 534.70299660000001,
+        "pctcanBAgt" : 0.159259337,
+        "easting" : 615418.17070000002,
+        "northing" : 4323178.3954999996,
+        "PlotName" : "8C4",
+        "Plot" : 824,
+        "POINT_X" : -79.666184444799995,
+        "POINT_Y" : 39.050061145599997
+      },
+      "geometry" : {
+        "x" : 615418.17070000025,
+        "y" : 4323178.3954999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "nRows" : 17,
+        "SumBA" : 17555.54176,
+        "sumBAgte2" : 7454.5988139999999,
+        "PctBAgte2" : 0.42462938,
+        "sumBAdampc" : 2363.2827090000001,
+        "pctBApct" : 0.13461747499999999,
+        "canopyBA" : 16625.944500000001,
+        "canopyBApc" : 2308.6700470000001,
+        "pctcandamc" : 0.13885948200000001,
+        "sumBAcangt" : 1847.4528299999999,
+        "pctcanBAgt" : 0.111118669,
+        "easting" : 615430.85930000001,
+        "northing" : 4322804.6205000002,
+        "PlotName" : "8E1",
+        "Plot" : 831,
+        "POINT_X" : -79.666101194600003,
+        "POINT_Y" : 39.046692191699996
+      },
+      "geometry" : {
+        "x" : 615430.85929999966,
+        "y" : 4322804.6205000011
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "nRows" : 22,
+        "SumBA" : 18743.252280000001,
+        "sumBAgte2" : 11859.48085,
+        "PctBAgte2" : 0.63273335200000003,
+        "sumBAdampc" : 3619.6645159999998,
+        "pctBApct" : 0.19311827300000001,
+        "canopyBA" : 16221.715770000001,
+        "canopyBApc" : 2341.2974509999999,
+        "pctcandamc" : 0.14433106100000001,
+        "sumBAcangt" : 0,
+        "pctcanBAgt" : 0,
+        "easting" : 615498.07499999995,
+        "northing" : 4322820.6781000001,
+        "PlotName" : "8E2",
+        "Plot" : 832,
+        "POINT_X" : -79.665321935500003,
+        "POINT_Y" : 39.0468279671
+      },
+      "geometry" : {
+        "x" : 615498.0749999996,
+        "y" : 4322820.6780999992
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "nRows" : 17,
+        "SumBA" : 12419.516869999999,
+        "sumBAgte2" : 6435.6310910000002,
+        "PctBAgte2" : 0.518186912,
+        "sumBAdampc" : 5622.0606950000001,
+        "pctBApct" : 0.45267950099999998,
+        "canopyBA" : 10446.7459,
+        "canopyBApc" : 5165.7286539999996,
+        "pctcandamc" : 0.49448208100000002,
+        "sumBAcangt" : 5165.7286539999996,
+        "pctcanBAgt" : 0.49448208100000002,
+        "easting" : 615484.84580000001,
+        "northing" : 4322845.8136,
+        "PlotName" : "8E3",
+        "Plot" : 833,
+        "POINT_X" : -79.665470509800002,
+        "POINT_Y" : 39.047056157699998
+      },
+      "geometry" : {
+        "x" : 615484.84579999978,
+        "y" : 4322845.8136
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "nRows" : 26,
+        "SumBA" : 17520.544419999998,
+        "sumBAgte2" : 10087.724700000001,
+        "PctBAgte2" : 0.575765482,
+        "sumBAdampc" : 3165.6101290000001,
+        "pctBApct" : 0.18067989500000001,
+        "canopyBA" : 11917.60817,
+        "canopyBApc" : 1892.536648,
+        "pctcandamc" : 0.15880171800000001,
+        "sumBAcangt" : 0,
+        "pctcanBAgt" : 0,
+        "easting" : 615406.79359999998,
+        "northing" : 4322865.6573999999,
+        "PlotName" : "8E4",
+        "Plot" : 834,
+        "POINT_X" : -79.666368881799997,
+        "POINT_Y" : 39.047245243100001
+      },
+      "geometry" : {
+        "x" : 615406.79360000021,
+        "y" : 4322865.6573999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "nRows" : 72,
+        "SumBA" : 10546.011850000001,
+        "sumBAgte2" : 2690.6345999999999,
+        "PctBAgte2" : 0.25513290100000002,
+        "sumBAdampc" : 840.69378749999998,
+        "pctBApct" : 0.079716750000000003,
+        "canopyBA" : 20244.148740000001,
+        "canopyBApc" : 218.84818749999999,
+        "pctcandamc" : 0.010810442,
+        "sumBAcangt" : 256.32605000000001,
+        "pctcanBAgt" : 0.012661735,
+        "easting" : 614097.54599999997,
+        "northing" : 4324429.7690000003,
+        "PlotName" : "1001",
+        "Plot" : 1001,
+        "POINT_X" : -79.681232575699994,
+        "POINT_Y" : 39.061508137499999
+      },
+      "geometry" : {
+        "x" : 614097.54600000056,
+        "y" : 4324429.7690000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "nRows" : 62,
+        "SumBA" : 11518.995800000001,
+        "sumBAgte2" : 4925.3490499999998,
+        "PctBAgte2" : 0.427584933,
+        "sumBAdampc" : 1621.468525,
+        "pctBApct" : 0.140764747,
+        "canopyBA" : 4283.2425999999996,
+        "canopyBApc" : 697.43325000000004,
+        "pctcandamc" : 0.16282833199999999,
+        "sumBAcangt" : 2279.8755000000001,
+        "pctcanBAgt" : 0.53227792900000004,
+        "easting" : 614160.72640000004,
+        "northing" : 4324252.3590000002,
+        "PlotName" : "1002",
+        "Plot" : 1002,
+        "POINT_X" : -79.680532256500001,
+        "POINT_Y" : 39.059901615000001
+      },
+      "geometry" : {
+        "x" : 614160.72640000016,
+        "y" : 4324252.3590000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "nRows" : 88,
+        "SumBA" : 12429.980449999999,
+        "sumBAgte2" : 3176.6124,
+        "PctBAgte2" : 0.25556053099999998,
+        "sumBAdampc" : 1076.7491749999999,
+        "pctBApct" : 0.086625170000000001,
+        "canopyBA" : 8451.7495999999992,
+        "canopyBApc" : 295.84294999999997,
+        "pctcandamc" : 0.035003751999999999,
+        "sumBAcangt" : 890.96714999999995,
+        "pctcanBAgt" : 0.105418072,
+        "easting" : 613159.62699999998,
+        "northing" : 4323707.0190000003,
+        "PlotName" : "1003",
+        "Plot" : 1003,
+        "POINT_X" : -79.692190768100005,
+        "POINT_Y" : 39.055119017800003
+      },
+      "geometry" : {
+        "x" : 613159.62699999986,
+        "y" : 4323707.0190000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "nRows" : 86,
+        "SumBA" : 12611.433199999999,
+        "sumBAgte2" : 5841.9307500000004,
+        "PctBAgte2" : 0.46322496899999999,
+        "sumBAdampc" : 1629.585425,
+        "pctBApct" : 0.12921492700000001,
+        "canopyBA" : 8314.9476500000001,
+        "canopyBApc" : 1040.4174129999999,
+        "pctcandamc" : 0.12512615299999999,
+        "sumBAcangt" : 3915.7370000000001,
+        "pctcanBAgt" : 0.470927439,
+        "easting" : 613340.12809999997,
+        "northing" : 4323771.5190000003,
+        "PlotName" : "1004",
+        "Plot" : 1004,
+        "POINT_X" : -79.6900944506,
+        "POINT_Y" : 39.055676683500003
+      },
+      "geometry" : {
+        "x" : 613340.12809999986,
+        "y" : 4323771.5190000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "nRows" : 66,
+        "SumBA" : 10317.341350000001,
+        "sumBAgte2" : 2996.9180500000002,
+        "PctBAgte2" : 0.29047386800000002,
+        "sumBAdampc" : 1035.4738749999999,
+        "pctBApct" : 0.10036247099999999,
+        "canopyBA" : 7196.8564500000002,
+        "canopyBApc" : 633.024,
+        "pctcandamc" : 0.087958403000000004,
+        "sumBAcangt" : 1890.9472499999999,
+        "pctcanBAgt" : 0.26274627900000003,
+        "easting" : 613208.12730000005,
+        "northing" : 4323796.5190000003,
+        "PlotName" : "1005",
+        "Plot" : 1005,
+        "POINT_X" : -79.691615494800004,
+        "POINT_Y" : 39.055919029499996
+      },
+      "geometry" : {
+        "x" : 613208.12729999982,
+        "y" : 4323796.5190000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "nRows" : 65,
+        "SumBA" : 12229.664150000001,
+        "sumBAgte2" : 7256.0375999999997,
+        "PctBAgte2" : 0.59331454299999997,
+        "sumBAdampc" : 2475.138363,
+        "pctBApct" : 0.20238808899999999,
+        "canopyBA" : 9497.3539000000001,
+        "canopyBApc" : 1602.41265,
+        "pctcandamc" : 0.16872201100000001,
+        "sumBAcangt" : 5433.7071999999998,
+        "pctcanBAgt" : 0.57212853799999996,
+        "easting" : 613291.37780000002,
+        "northing" : 4323560.5180000002,
+        "PlotName" : "1301",
+        "Plot" : 1301,
+        "POINT_X" : -79.690692843600004,
+        "POINT_Y" : 39.053782119899999
+      },
+      "geometry" : {
+        "x" : 613291.37780000037,
+        "y" : 4323560.5180000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "nRows" : 62,
+        "SumBA" : 7728.8980499999998,
+        "sumBAgte2" : 3057.5749999999998,
+        "PctBAgte2" : 0.39560296700000003,
+        "sumBAdampc" : 1284.1304749999999,
+        "pctBApct" : 0.16614664400000001,
+        "canopyBA" : 4567.8050999999996,
+        "canopyBApc" : 532.59502499999996,
+        "pctcandamc" : 0.11659758100000001,
+        "sumBAcangt" : 1728.3188,
+        "pctcanBAgt" : 0.378369646,
+        "easting" : 613390.50340000005,
+        "northing" : 4324230.0219999999,
+        "PlotName" : "1302",
+        "Plot" : 1302,
+        "POINT_X" : -79.689436021500001,
+        "POINT_Y" : 39.059800753499999
+      },
+      "geometry" : {
+        "x" : 613390.50339999993,
+        "y" : 4324230.0219999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "nRows" : 72,
+        "SumBA" : 12077.146500000001,
+        "sumBAgte2" : 3535.1768499999998,
+        "PctBAgte2" : 0.29271623499999999,
+        "sumBAdampc" : 1068.469388,
+        "pctBApct" : 0.088470351000000003,
+        "canopyBA" : 8674.4148499999992,
+        "canopyBApc" : 534.34361249999995,
+        "pctcandamc" : 0.061599961000000002,
+        "sumBAcangt" : 2137.3744499999998,
+        "pctcanBAgt" : 0.24639984200000001,
+        "easting" : 613308.50289999996,
+        "northing" : 4324249.0219999999,
+        "PlotName" : "1303",
+        "Plot" : 1303,
+        "POINT_X" : -79.690380387000005,
+        "POINT_Y" : 39.059982568400002
+      },
+      "geometry" : {
+        "x" : 613308.50290000043,
+        "y" : 4324249.0219999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "nRows" : 76,
+        "SumBA" : 13333.185750000001,
+        "sumBAgte2" : 4079.5900499999998,
+        "PctBAgte2" : 0.30597264000000002,
+        "sumBAdampc" : 1264.2111,
+        "pctBApct" : 0.094816882000000005,
+        "canopyBA" : 10068.904549999999,
+        "canopyBApc" : 565.35896249999996,
+        "pctcandamc" : 0.056149004000000002,
+        "sumBAcangt" : 2261.4358499999998,
+        "pctcanBAgt" : 0.22459601600000001,
+        "easting" : 613251.69010000001,
+        "northing" : 4324133.0209999997,
+        "PlotName" : "1304",
+        "Plot" : 1304,
+        "POINT_X" : -79.691056168700001,
+        "POINT_Y" : 39.058944897400004
+      },
+      "geometry" : {
+        "x" : 613251.69009999977,
+        "y" : 4324133.0209999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "nRows" : 58,
+        "SumBA" : 12033.037350000001,
+        "sumBAgte2" : 4266.2473499999996,
+        "PctBAgte2" : 0.35454451199999998,
+        "sumBAdampc" : 1516.727938,
+        "pctBApct" : 0.12604697300000001,
+        "canopyBA" : 9571.2930500000002,
+        "canopyBApc" : 645.49568750000003,
+        "pctcandamc" : 0.067440802999999994,
+        "sumBAcangt" : 2581.9827500000001,
+        "pctcanBAgt" : 0.269763211,
+        "easting" : 613088.25159999996,
+        "northing" : 4323973.5199999996,
+        "PlotName" : "1305",
+        "Plot" : 1305,
+        "POINT_X" : -79.692971200800002,
+        "POINT_Y" : 39.057529150299999
+      },
+      "geometry" : {
+        "x" : 613088.25160000031,
+        "y" : 4323973.5199999996
+      }
+    }
+  ]
+}
