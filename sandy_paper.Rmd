@@ -1,9 +1,9 @@
 ---
 title: "Forest damage from the heavy early snowfall of Superstorm Sandy differs by tree size, species, and landscape position"
-output: github_document
+output: html_document
 ---
 
-```{r}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(tmap)
 library(sf)
@@ -24,7 +24,7 @@ The Fernow Experimental Forest (FEF)—a 1,902 ha outdoor laboratory established
 
 We used 78 permanently marked growth plots (hereafter referred to as field plots) in twelve forest management compartments in FEF for this study (Figure 2; Table 1).  Each tree in these field plots is measured periodically so our damage assessments added to an existing record of measurements and allowed us to assess the damage from Sandy because the previous state of each tree was known.  This long record of measurement also means we can go back and further assess the same trees in the future to look at long-term impacts.
 
-```{r}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
 trees <- read_csv("fernow_tree_data.csv", col_types = cols(
   ws = col_character(),
   plot = col_character(),
